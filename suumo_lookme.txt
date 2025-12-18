@@ -1,0 +1,17 @@
+suumoファイル取扱説明書
+
+1:開きたいファイルがあるフォルダに移動(suumoファイル)
+2:python3 -m http.server
+3:http://localhost:8000/sumo.html
+
+操作方法
+Nキー:初期化
+1キー:試合開始
+2キー:審議
+3キー:同体取り直し
+Uキー:上手投げ
+Sキー:下手投げ
+Hキー:はたきこみ
+
+フォントだけ容量の理由で後ほど追加予定
+Please execute from number 1.

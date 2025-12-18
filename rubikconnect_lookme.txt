@@ -1,0 +1,18 @@
+2Drubik.py:python3環境、tkinter使用.
+        操作方法
+            qe
+            ad
+            zc
+            左右回転
+            rty
+            vbn
+            上下回転
+            ou
+            lj
+            mk
+            ぐるぐる回転
+    
+3Drubik.blend:blender使用
+        操作方法:2Dと同様
+
+localhost50007にて現在接続可能(プログラム参照 2D240行目　3D12行目)
